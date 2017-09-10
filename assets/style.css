@@ -1,0 +1,26 @@
+.container-fluid {
+  border-radius: 10px;
+
+}
+
+.imgspot {
+  margin:25px;
+}
+
+.nav-item {
+  width:100%;
+  margin-top: 0%;
+}
+
+ul{
+  margin-top: 0px;
+
+}
+
+h1 {
+  align-content: center;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
